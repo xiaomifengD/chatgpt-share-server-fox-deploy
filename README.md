@@ -95,8 +95,11 @@ Fox 是 **ChatGPT Share Server** 的商业化外挂二开版本，完美兼容�
 
 <div align="center">
 
+### 聊天界面
+![聊天界面](https://raw.githubusercontent.com/xiaomifengD/xiaomifengD/refs/heads/main/img/chat.png)
+
 ### 登录注册界面
-![登录注册界面](https://raw.githubusercontent.com/xiaomifengD/xiaomifengD/refs/heads/main/img/login.jpg)
+![登录注册界面](https://raw.githubusercontent.com/xiaomifengD/xiaomifengD/refs/heads/main/img/login.png)
 
 ### 主界面
 ![主界面](https://raw.githubusercontent.com/xiaomifengD/xiaomifengD/refs/heads/main/img/main.png)
